@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\bin\Debug\net6.0\Gerador de numeros c#.exe
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\bin\Debug\net6.0\Gerador de numeros c#.deps.json
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\bin\Debug\net6.0\Gerador de numeros c#.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\bin\Debug\net6.0\Gerador de numeros c#.dll
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\bin\Debug\net6.0\Gerador de numeros c#.pdb
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.dll
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\refint\Gerador de numeros c#.dll
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.pdb
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\Gerador de numeros c#.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\Gerador de numeros c#\obj\Debug\net6.0\ref\Gerador de numeros c#.dll
